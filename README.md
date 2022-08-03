@@ -1,1 +1,1 @@
-# Informe_1-Matenimiento_de_una_Computadora
+# Informe 1 | Matenimiento de una Computadora
