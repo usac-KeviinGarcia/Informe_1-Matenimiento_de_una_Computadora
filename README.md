@@ -27,4 +27,4 @@ Jeffry Méndez | 201901557
     </ul>
  
 *Video Tutorial*
-[![Watch the video](/images/PORTADA.jpg)](https://www.youtube.com/watch?v=A0Hz_5pk2LQ&ab_channel=KEVINERNESTOGARC%C3%8DAHERN%C3%81NDEZ)
+[![Watch the video](/images/PORTADA.jpg)](https://www.youtube.com/watch?v=n0LfD7jUTso&ab_channel=KEVINERNESTOGARC%C3%8DAHERN%C3%81NDEZ)
